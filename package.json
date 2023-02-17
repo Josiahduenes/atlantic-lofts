@@ -52,6 +52,10 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.37.3"
+    "@finsweet/ts-utils": "^0.37.3",
+    "@fullcalendar/core": "^6.1.4",
+    "@fullcalendar/daygrid": "^6.1.4",
+    "@fullcalendar/list": "^6.1.4",
+    "@fullcalendar/timegrid": "^6.1.4"
   }
 }
