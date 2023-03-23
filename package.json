@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@josiahduenes/atlantic-lofts",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Custom code for the Atlantic Lofts in Copus Christis.",
+  "homepage": "https://github.com/Josiahduenes/atlantic-lofts",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "Gamma Labs",
+    "url": "https://gammadesign.co"
   },
   "repository": {
     "type": "git",
