@@ -1,3 +1,4 @@
+let emailList
 window.Webflow ||= [];
 window.Webflow.push(() => {
     const apiKey = 'patjjOTvTCOCRglVs.aebd3d4f85a600cb5c228228069c341ce0f9a89ebff08f71e60fcb2c103a0adf';
@@ -18,6 +19,7 @@ window.Webflow.push(() => {
               email: fields.Email
             };
           });
+          Wized.data.setVariable("memberemaillist",formattedData) //Set custom Wized variable "memberemaillist" to JSON Object of member emails from airtable.
         })
         .catch((error) => console.error(error));
 });
