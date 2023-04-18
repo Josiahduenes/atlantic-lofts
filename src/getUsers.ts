@@ -2,7 +2,6 @@
 window.Webflow ||= [];
 window.onload = async () => {
   window.Webflow.push(() => {
-    console.log('YES IM WORKIN!');
     const apiKey =
       'patjjOTvTCOCRglVs.aebd3d4f85a600cb5c228228069c341ce0f9a89ebff08f71e60fcb2c103a0adf';
     const baseId = 'app6ak5FPSA3mu0KZ';
