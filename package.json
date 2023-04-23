@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/Josiahduenes/atlantic-lofts.git"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/Josiahduenes/atlantic-lofts/issues"
   },
   "type": "module",
   "main": "src/index.ts",
